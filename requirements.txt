@@ -1,0 +1,15 @@
+# Core dependencies for Interactive Weather App
+requests>=2.31.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+Pillow>=10.0.0
+
+# Optional dependencies for enhanced features
+numpy>=1.24.0
+datetime
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0

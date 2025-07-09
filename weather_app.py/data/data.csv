@@ -1,0 +1,16 @@
+date,city,temperature,humidity,weather_condition,mood,notes,pressure,wind_speed,visibility
+2025-01-15,New York,45.2,65,Clear,Happy,Beautiful sunny day perfect for a walk,1013.2,8.5,10.0
+2025-01-16,New York,38.7,72,Clouds,Neutral,Overcast but comfortable temperature,1009.8,12.3,9.2
+2025-01-17,New York,52.1,58,Rain,Calm,Light rain - stayed inside and read,1005.4,15.7,6.8
+2025-01-18,Los Angeles,68.9,55,Clear,Energetic,Perfect weather for outdoor activities,1016.7,6.2,10.0
+2025-01-19,Chicago,32.4,78,Snow,Cozy,First snow of the season - hot cocoa weather,998.3,18.9,3.5
+2025-01-20,Miami,78.6,82,Partly Cloudy,Relaxed,Warm and humid - typical Miami weather,1012.1,9.4,8.7
+2025-01-21,Seattle,41.3,89,Drizzle,Contemplative,Classic Seattle drizzle - perfect for coffee,1007.6,7.8,5.9
+2025-01-22,Phoenix,71.2,32,Clear,Motivated,Dry heat and clear skies - hiking weather,1018.9,4.3,10.0
+2025-01-23,Boston,36.8,69,Partly Cloudy,Content,Cool but pleasant - good for a brisk walk,1011.5,11.7,8.4
+2025-01-24,Denver,48.7,45,Clear,Inspired,Mountain air and sunshine - feeling great,1025.3,8.1,10.0
+2025-01-25,Atlanta,59.4,73,Thunderstorm,Reflective,Dramatic storm - watched from the window,994.7,22.4,4.2
+2025-01-26,Portland,43.1,84,Rain,Peaceful,Steady rain - perfect for indoor projects,1004.2,13.6,6.1
+2025-01-27,Las Vegas,64.3,28,Clear,Optimistic,Desert sunshine and low humidity - ideal,1021.7,5.9,10.0
+2025-01-28,San Francisco,56.8,76,Fog,Mysterious,Typical SF fog rolling in from the bay,1013.8,14.2,2.8
+2025-01-29,Houston,72.1,81,Partly Cloudy,Comfortable,Warm and muggy - typical Gulf Coast weather,1009.3,10.7,7.5
